@@ -43,7 +43,7 @@ import { useAuth } from "@/app/context/authClientContext";
 
 
     return (
-    <>
+
       <Card className="w-96" style={{backgroundColor: 'rgba(0, 0, 0, 0.08)'}}>
         <CardHeader
           variant="gradient"
@@ -83,6 +83,6 @@ import { useAuth } from "@/app/context/authClientContext";
           </Typography>*/} 
         </CardFooter>
       </Card>
-      </>
+   
     );
   }
