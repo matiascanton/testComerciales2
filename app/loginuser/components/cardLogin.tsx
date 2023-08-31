@@ -1,4 +1,4 @@
-/*import { useState } from "react";
+import { useState } from "react";
 import {
     Card,
     CardHeader,
@@ -79,8 +79,8 @@ import { useAuth } from "@/app/context/authClientContext";
             >
               Registrate
             </Typography>
-          </Typography>} 
+          </Typography>*/} 
         </CardFooter>
       </Card>
     );
-  }*/
+  }

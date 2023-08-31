@@ -60,7 +60,7 @@ export default function ClientDetail() {
 
   useEffect(() => {
     if (!isAuthenticated) {
-      router.push('/login');
+      router.push('/loginuser');
     }
   }, []);
 
