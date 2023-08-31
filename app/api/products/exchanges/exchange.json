@@ -1,0 +1,44 @@
+{
+  "exchange": [
+    {
+      "id": 1,
+      "sku": 1000412,
+      "description": "Aquarius Manzana 1,5 lts x6 unidades",
+      "brand": "",
+      "image": "",
+      "qty": 1,
+      "created_at": "",
+      "entregado": ""
+    },
+    {
+      "id": 2,
+      "sku": 1000412,
+      "description": "Aquarius Manzana 1,5 lts x6 unidades",
+      "brand": "",
+      "image": "",
+      "qty": 1,
+      "created_at": "",
+      "entregado": ""
+    },
+    {
+      "id": 3,
+      "sku": 1000412,
+      "description": "Aquarius Manzana 1,5 lts x6 unidades",
+      "brand": "",
+      "image": "",
+      "qty": 1,
+      "created_at": "",
+      "entregado": ""
+    },
+    {
+      "id": 4,
+      "sku": 1000412,
+      "description": "Aquarius Manzana 1,5 lts x6 unidades",
+      "brand": "",
+      "image": "",
+      "qty": 1,
+      "created_at": "",
+      "entregado": ""
+    }
+  ]
+}

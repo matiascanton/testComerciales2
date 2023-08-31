@@ -1,0 +1,188 @@
+{
+  "clients": [
+    {
+      "id": 1234,
+      "business_name": "CHINO",
+      "channel_group": "ALMACENES",
+      "gec": "ORO",
+      "address": "Avda. Santa Fe 123",
+      "enabled": true
+    },
+    {
+      "id": 5678,
+      "business_name": "CHINO II",
+      "channel_group": "ALMACENES",
+      "gec": "PLATA",
+      "address": "Avda. Sarmiento 45000",
+      "enabled": true
+    },
+    {
+      "id": 9876,
+      "business_name": "SUPERMERCADO ABC",
+      "channel_group": "SUPERMERCADOS",
+      "gec": "ORO",
+      "address": "Calle Principal 789",
+      "enabled": true
+    },
+    {
+      "id": 5432,
+      "business_name": "SUPERMERCADO XYZ",
+      "channel_group": "SUPERMERCADOS",
+      "gec": "PLATA",
+      "address": "Avenida Central 456",
+      "enabled": true
+    },
+    {
+      "id": 2468,
+      "business_name": "MERCADITO RAPIDO",
+      "channel_group": "ALMACENES",
+      "gec": "BRONCE",
+      "address": "Calle 5 de Mayo 101",
+      "enabled": true
+    },
+    {
+      "id": 1357,
+      "business_name": "MINIMARKET EXPRESS",
+      "channel_group": "SUPERMERCADOS",
+      "gec": "BRONCE",
+      "address": "Avenida Libertad 789",
+      "enabled": true
+    },
+    {
+      "id": 8642,
+      "business_name": "MERCADO CENTRAL",
+      "channel_group": "ALMACENES",
+      "gec": "PLATA",
+      "address": "Calle del Mercado 123",
+      "enabled": true
+    },
+    {
+      "id": 9753,
+      "business_name": "SUPERMERCADO FAMILIAR",
+      "channel_group": "SUPERMERCADOS",
+      "gec": "ORO",
+      "address": "Avenida Principal 456",
+      "enabled": true
+    },
+    {
+      "id": 2580,
+      "business_name": "MINI SUPER X",
+      "channel_group": "ALMACENES",
+      "gec": "PLATA",
+      "address": "Calle del Sol 789",
+      "enabled": true
+    },
+    {
+      "id": 4567,
+      "business_name": "SUPERMARKET MAX",
+      "channel_group": "SUPERMERCADOS",
+      "gec": "ORO",
+      "address": "Avenida Central 123",
+      "enabled": true
+    },
+    {
+      "id": 7890,
+      "business_name": "MINI MARKET Y",
+      "channel_group": "ALMACENES",
+      "gec": "BRONCE",
+      "address": "Calle de la Luna 456",
+      "enabled": true
+    },
+    {
+      "id": 3210,
+      "business_name": "SUPERMERCADO ZETA",
+      "channel_group": "SUPERMERCADOS",
+      "gec": "PLATA",
+      "address": "Avenida Libertad 789",
+      "enabled": true
+    },
+    {
+      "id": 9012,
+      "business_name": "Supermercado Gamma",
+      "channel_group": "Supermercados",
+      "gec": "BRONCE",
+      "address": "Carrera 10 123",
+      "enabled": true
+    },
+    {
+      "id": 2469,
+      "business_name": "MERCADITO VECINO",
+      "channel_group": "ALMACENES",
+      "gec": "PLATA",
+      "address": "Calle Progreso 456",
+      "enabled": true
+    },
+    {
+      "id": 7531,
+      "business_name": "SUPERMERCADO DELTA",
+      "channel_group": "SUPERMERCADOS",
+      "gec": "ORO",
+      "address": "Avenida Independencia 789",
+      "enabled": true
+    },
+    {
+      "id": 8643,
+      "business_name": "MINI MARKET EXPRESS",
+      "channel_group": "ALMACENES",
+      "gec": "BRONCE",
+      "address": "Calle Primavera 123",
+      "enabled": true
+    },
+    {
+      "id": 9512,
+      "business_name": "TIENDA LOCAL",
+      "channel_group": "TIENDAS",
+      "gec": "PLATA",
+      "address": "Avenida del Sol 456",
+      "enabled": true
+    },
+    {
+      "id": 3579,
+      "business_name": "SUPERMERCADO OMEGA",
+      "channel_group": "SUPERMERCADOS",
+      "gec": "ORO",
+      "address": "Calle Mayor 789",
+      "enabled": true
+    },
+    {
+      "id": 4680,
+      "business_name": "ALMACÉN ABC",
+      "channel_group": "ALMACENES",
+      "gec": "PLATA",
+      "address": "Avenida Central 456",
+      "enabled": true
+    },
+    {
+      "id": 1593,
+      "business_name": "SUPERMARKET RÁPIDO",
+      "channel_group": "SUPERMERCADOS",
+      "gec": "PLATA",
+      "address": "Calle Principal 123",
+      "enabled": true
+    },
+    {
+      "id": 8640,
+      "business_name": "MERCADO EXPRESS",
+      "channel_group": "ALMACENES",
+      "gec": "BRONCE",
+      "address": "Avenida Libertad 456",
+      "enabled": true
+    },
+    {
+      "id": 7530,
+      "business_name": "MINI SUPER Z",
+      "channel_group": "ALMACENES",
+      "gec": "PLATA",
+      "address": "Calle del Mar 789",
+      "enabled": true
+    },
+    {
+      "id": 9513,
+      "business_name": "SUPERMERCADO NUEVO",
+      "channel_group": "SUPERMERCADOS",
+      "gec": "ORO",
+      "address": "Avenida Principal 456",
+      "enabled": true
+    }
+  ]
+}

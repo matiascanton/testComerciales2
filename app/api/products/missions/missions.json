@@ -1,0 +1,48 @@
+{
+  "missions": [
+    {
+      "skus": [1000412, 1000411, 1000413],
+      "label": "Aquarius Manzana 1,5 lts x6 unidades",
+      "qty": 4,
+      "img": "",
+      "target": 2
+    },
+    {
+      "skus": [1000412, 1000411, 1000413],
+      "label": "Coca-Cola Zero 2 lts x12 unidades",
+      "qty": 4,
+      "img": "",
+      "target": 2
+    },
+    {
+      "skus": [1000412, 1000411, 1000413],
+      "label": "Sprite 2,5 lts x4 unidades",
+      "qty": 4,
+      "img": "",
+      "target": 2
+    },
+    {
+      "skus": [1000412, 1000411, 1000413],
+      "label": "Fanta Naranja 1 lts x8 unidades",
+      "qty": 4,
+      "img": "",
+      "target": 2
+    },
+    {
+      "skus": [1000412, 1000411, 1000413],
+      "label": "Coca-Cola Light 500 ml x24 unidades",
+      "qty": 4,
+      "img": "",
+      "target": 2
+    },
+    {
+      "skus": [1000412, 1000411, 1000413],
+      "label": "Aquarius Limón 2 lts x10 unidades",
+      "qty": 4,
+      "img": "",
+      "target": 2
+
+    }
+   
+  ]
+}

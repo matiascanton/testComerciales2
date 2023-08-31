@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "SKU": 10001,
+      "detail": "Aquarius Manzana 1,5 lts",
+      "price": 250.0
+    },
+    {
+      "SKU": 10002,
+      "detail": "Coca-Cola Zero 2 lts",
+      "price": 350.0
+    },
+    {
+      "SKU": 10003,
+      "detail": "Sprite 2,5 lts",
+      "price": 300.0
+    },
+    {
+      "SKU": 10004,
+      "detail": "Fanta Naranja 1 lts",
+      "price": 200.0
+    },
+    {
+      "SKU": 10005,
+      "detail": "Coca-Cola Light 500 ml",
+      "price": 100.0
+    },
+    {
+      "SKU": 10006,
+      "detail": "Aquarius Limón 2 lts",
+      "price": 320.0
+    },
+    {
+      "SKU": 10007,
+      "detail": "Schweppes Tónica 1,5 lts",
+      "price": 230.0
+    },
+    {
+      "SKU": 10008,
+      "detail": "Coca-Cola Original 3 lts",
+      "price": 400.0
+    },
+    {
+      "SKU": 10009,
+      "detail": "Sprite Zero 500 ml",
+      "price": 80.0
+    },
+    {
+      "SKU": 10010,
+      "detail": "Fanta Uva 2 lts",
+      "price": 280.0
+    },
+    {
+      "SKU": 10011,
+      "detail": "Coca-Cola Sin Cafeína 1,5 lts",
+      "price": 250.0
+    },
+    {
+      "SKU": 10012,
+      "detail": "Aquarius Sandía 500 ml",
+      "price": 60.0
+    },
+    {
+      "SKU": 10013,
+      "detail": "Schweppes Ginger Ale 2 lts",
+      "price": 280.0
+    },
+    {
+      "SKU": 10014,
+      "detail": "Coca-Cola Light Sabor a Vainilla 2,5 lts",
+      "price": 300.0
+    },
+    {
+      "SKU": 10015,
+      "detail": "Sprite Limón 1 lts",
+      "price": 200.0
+    },
+    {
+      "SKU": 10016,
+      "detail": "Fanta Mandarina 500 ml",
+      "price": 80.0
+    }
+  ]
+}

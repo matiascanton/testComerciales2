@@ -1,0 +1,44 @@
+@server = https://femsa.weareblive.io
+
+##
+###
+# Get client's info
+GET {{server}}/api/v3/comerciales/info/client/111300000717
+Authorization: Bearer FeMsA@2022
+content-type: application/json
+
+##
+###
+# Get User's profile
+GET {{server}}/api/v3/comerciales/info/user/blive
+Authorization: Bearer FeMsA@2022
+content-type: application/json
+
+##
+###
+# Missions
+POST {{server}}/api/v3/comerciales/missions
+Authorization: Bearer FeMsA@2022
+content-type: application/json
+
+{
+    "client_id": "111300000717"
+}
+
+##
+###
+# Imperdibles
+POST {{server}}/api/v3/comerciales/imperdibles
+Authorization: Bearer FeMsA@2022
+content-type: application/json
+
+{
+    "client_id": "111111111113"
+}
+
+##
+###
+# Get Canjes by client
+GET {{server}}/api/v3/back/canjes/by_client/111111111113
+Authorization: Bearer FeMsA@2022
+content-type: application/json

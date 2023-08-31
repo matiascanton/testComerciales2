@@ -1,0 +1,34 @@
+{
+  "unmissable": [
+    {
+      "skus": [1000412, 1000414],
+      "label": "Aquarius Manzana 1,5 lts x6 unidades",
+      "img": "",
+      "target": 1
+    },
+    {
+      "skus": [1000412, 1000414],
+      "label": "Coca-Cola Zero 2 lts x12 unidades",
+      "img": "",
+      "target": 1
+    },
+    {
+      "skus": [1000412, 1000414],
+      "label": "Sprite 2,5 lts x4 unidades",
+      "img": "",
+      "target": 1
+    },
+    {
+      "skus": [1000412, 1000414],
+      "label": "Fanta Naranja 1 lts x8 unidades",
+      "img": "",
+      "target": 1
+    },
+    {
+      "skus": [1000412, 1000414],
+      "label": "Coca-Cola Light 500 ml x24 unidades",
+      "img": "",
+      "target": 1
+    }
+  ]
+}

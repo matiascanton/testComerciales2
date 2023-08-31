@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "id": "b9c4c6c0-1b0c-4c24-9d0d-8808f3bfead1",
+      "password": 12345,
+      "name": "Ramiro",
+      "email": "ramiro@gmail.com",
+      "mobile": "110929022202",
+      "enabled": true,
+      "address": "Av. San Martin 5691, CABA",
+      "route": "Av. San Martin"
+    },
+    {
+      "id": "019e76af-7ab6-45b0-b67b-0a2ad7bb0b67",
+      "password": 67890,
+      "name": "Laura",
+      "email": "laura@gmail.com",
+      "mobile": "120839041605",
+      "enabled": true,
+      "address": "Av. Libertador 123, Buenos Aires",
+      "route": "Av. Libertador"
+    },
+    {
+      "id": "3bc8a29b-2581-47e9-a755-6eebfb38b59c",
+      "password": 23456,
+      "name": "Juan",
+      "email": "juan@gmail.com",
+      "mobile": "130748060008",
+      "enabled": true,
+      "address": "Calle Florida 456, Buenos Aires",
+      "route": "Calle Florida"
+    },
+    {
+      "id": "1d94cc39-9741-4d3a-bc02-303d3b2c2d77",
+      "password": 78901,
+      "name": "Maria",
+      "email": "maria@gmail.com",
+      "mobile": "140657079401",
+      "enabled": true,
+      "address": "Av. Corrientes 789, CABA",
+      "route": "Av. Corrientes"
+    },
+    {
+      "id": "457d5f25-5e37-4098-b06f-86a717d237e3",
+      "password": 34567,
+      "name": "Carlos",
+      "email": "carlos@gmail.com",
+      "mobile": "150566098804",
+      "enabled": true,
+      "address": "Av. Callao 321, Buenos Aires",
+      "route": "Av. Av. Callao"
+    },
+    {
+      "id": "5e4d36b7-6b33-47af-8d46-98681d10d738",
+      "password": 89012,
+      "name": "Ana",
+      "email": "ana@gmail.com",
+      "mobile": "160475118207",
+      "enabled": true,
+      "address": "Calle Lavalle 987, CABA",
+      "route": "Calle Lavalle"
+    },
+    {
+      "id": "d4d1ed32-77b4-45fd-9f3c-4c79e42fdd22",
+      "password": 45678,
+      "name": "Javier",
+      "email": "javier@gmail.com",
+      "mobile": "170384137610",
+      "enabled": true,
+      "address": "Av. Libertador 123, Buenos Aires",
+      "route": "Av. Libertador"
+    },
+    {
+      "id": "df8b90e1-1ed1-4346-9db3-b55c01e8ee8b",
+      "password": 90123,
+      "name": "Paola",
+      "email": "paola@gmail.com",
+      "mobile": "180293157013",
+      "enabled": true,
+      "address": "Calle San Martín 456, Córdoba",
+      "route": "Calle San Martín"
+    },
+    {
+      "id": "a3832b4d-56b5-456e-9ff2-b9506b2f7f3a",
+      "password": 56789,
+      "name": "Luis",
+      "email": "luis@gmail.com",
+      "mobile": "190202176416",
+      "enabled": true,
+      "address": "Av. Rivadavia 789, Buenos Aires",
+      "route": "Av. Rivadavia"
+    },
+    {
+      "id": "df8b90e1-1ed1-4346-9db3-b55c01e8ee8b",
+      "password": 90123,
+      "name": "Paola",
+      "email": "paola@gmail.com",
+      "mobile": "180293157013",
+      "enabled": true,
+      "address": "Av. 9 de Julio 321, Buenos Aires",
+      "route": "Av. 9 de Julio"
+    },
+    {
+      "id": "a3832b4d-56b5-456e-9ff2-b9506b2f7f3a",
+      "password": 56789,
+      "name": "Luis",
+      "email": "luis@gmail.com",
+      "mobile": "190202176416",
+      "enabled": true,
+      "address": "Calle Belgrano 567, Mendoza",
+      "route": "Calle Belgrano"
+    },
+    {
+      "id": "a8b753a1-2a8f-4b14-bd15-3d76d9e3770c",
+      "password": 23451,
+      "name": "Sara",
+      "email": "sara@gmail.com",
+      "mobile": "200111195819",
+      "enabled": true,
+      "address": "Av. Corrientes 890, Buenos Aires",
+      "route": "Av. Corrientes"
+    }
+  ]
+}
