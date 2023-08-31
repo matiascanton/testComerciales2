@@ -33,7 +33,7 @@ export default function Clients() {
 
   useEffect(() => {
     if (!isAuthenticated) {
-      router.push('/loginuser');
+      router.push('/login');
     }
   }, [isAuthenticated, router]);
 

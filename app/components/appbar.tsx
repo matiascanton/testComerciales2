@@ -19,7 +19,7 @@ export default function Appbar() {
   const { width } = useScreen();
 
   const tabs = [
-    { label: "Ingreso", icon: <LoginIcon />, path: "/loginuser" },
+    { label: "Ingreso", icon: <LoginIcon />, path: "/login" },
     { label: "Home", icon: <LoginIcon />, path: "/login" },
     { label: "Info", icon: <GroupsIcon />, path: "/login" },
     //{ label: "Productos", icon: <FormatListBulletedIcon />, path: "/products" },

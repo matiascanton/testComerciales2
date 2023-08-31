@@ -40,7 +40,7 @@ export default function Profile() {
   // if (loading) return <Loader />;
 
   /*return !isAuthenticated ? (
-    router.push("/loginuser")
+    router.push("/login")
   ) : (
     <div className={`px-4 py-2 ${theme === "dark" && "bg-gray-800"} h-full`}>
       <Typography
@@ -77,7 +77,7 @@ export default function Profile() {
   );*/
   useEffect(() => {
     if (!isAuthenticated) {
-      router.push('/loginuser');
+      router.push('/login');
     }
   }, [isAuthenticated, router]);
 

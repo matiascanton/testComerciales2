@@ -10,7 +10,7 @@ export default function Login() {
 
   useEffect(() => {
     if (!isAuthenticated) {
-      router.push('/loginuser');
+      router.push('/login');
     }
   }, [isAuthenticated, router]);
 

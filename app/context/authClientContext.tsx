@@ -27,7 +27,7 @@ const AuthProvider: React.FC<React.PropsWithChildren<{}>> = ({ children }) => {
 
   const isAuthenticated = !!userAuth.length;
   const logout = () => {
-    router.push("/loginuser");
+    router.push("/login");
     setTimeout(() => {
       setUserAuth([]);
       setPassword(0o0);
