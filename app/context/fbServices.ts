@@ -37,7 +37,7 @@ const firebaseConfig = {
 // Initialize Firebase
 
 export const appFB = initializeApp(firebaseConfig);
-export const analytics = getAnalytics(appFB);
-export const storage = getStorage(appFB);
+//export const analytics = getAnalytics(appFB);
+//export const storage = getStorage(appFB);
 export const auth = getAuth(appFB);
-export const db = getFirestore(appFB);
+//export const db = getFirestore(appFB);
